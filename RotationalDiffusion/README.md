@@ -18,4 +18,4 @@ The tool is used as follows; for the hard-coded discrete model,
    
 and for the hard-coded continuous model,
    
-   pyhon main.py --type 1
+    python main.py --type 1
